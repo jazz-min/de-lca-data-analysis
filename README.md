@@ -1,2 +1,2 @@
-# de_lca_data_analysis
+# de-lca-data-analysis
 LCA Data Analysis Project
